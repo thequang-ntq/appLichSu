@@ -7,5 +7,5 @@ It is made by a team of 3 people (Gitlab link):
 ## Link to this app
 This project is located in (link) :
 ```bash
-- https://gitlab.com/os-group/vietnam-history
+https://gitlab.com/os-group/vietnam-history
 ```
